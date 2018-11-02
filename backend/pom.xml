@@ -102,7 +102,10 @@
                                     <includes>
                                         <include>static/</include>
                                         <include>index.html</include>
-										<include>favicon.ico</include>
+                                        <include>is-mobile.html</include>
+										<include>icon.ico</include>
+										<include>image/</include>
+										<include>script/</include>
                                     </includes>
                                 </resource>
                             </resources>
